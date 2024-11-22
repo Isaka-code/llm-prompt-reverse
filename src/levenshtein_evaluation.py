@@ -1,3 +1,4 @@
+# %% [code]
 """src/levenshtein_evaluation.py"""
 
 import Levenshtein
