@@ -1,3 +1,4 @@
+# %% [code]
 """src/prompt_class_for_llm_prompt_reverse.py"""
 
 
